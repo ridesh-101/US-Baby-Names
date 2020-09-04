@@ -1,10 +1,4 @@
 
-/**
- * Write a description of BabyNames here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 import edu.duke.*;
 import org.apache.commons.csv.*;
 import java.io.*;
